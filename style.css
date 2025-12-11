@@ -1,0 +1,18 @@
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.menu li {
+    list-style: none; /* remove bolinhas */
+    display: inline;  /* deixa lado a lado */
+    margin-left: 20px;
+}
+.menu li a {
+    text-decoration: none;
+    color: inherit;
+}
+.hero {
+    
+}
